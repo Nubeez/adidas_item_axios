@@ -33,14 +33,11 @@
     price: 35000,
   },
   {
-    id: 7,
+    "id": 7,
 
-    title: "제레미 스캇 오프숄더 드레스",
-
-    imgUrl: "img/plus/eremy_Scott_off_shoulder.JPG",
-
-    content: "Unisex Football",
-
-    price: 79000,
+    "title": "제레미 스캇 오프숄더 드레스",
+    "imgUrl": "img/plus/eremy_Scott_off_shoulder.JPG",
+    "content": "Unisex Football",
+    "price": 79000,
   },
 ];
