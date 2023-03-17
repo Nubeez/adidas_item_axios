@@ -1,68 +1,46 @@
 [
-    {
-    "id": 0,
+  {
+    id: 0,
 
-    "title": "ADIDAS WEAR",
+    title: "아디다스 x 클래식 레고 후디",
 
-    "content": "다시 돌아온 Adidas 14.1oz",
+    imgUrl: "img/plus/lego_hudi.JPG",
 
-    "buy": "지금 구매하기",
+    content: "Unisex Sportswear",
 
-    "imgUrl": "img/teaser/IMG_(0).jpg",
-    },
-    {
-    "id": 1,
+    price: 75000,
+  },
+  {
+    id: 1,
 
-    "title": "ADIDAS Shoes",
+    title: "테렉스 x 레고 캡틴 토이 샌들 ",
 
-    "content": "스트릿패션 Adidas Walker",
+    imgUrl: "img/plus/terex_lego_captin.JPG",
 
-    "buy": "지금 구매하기",
+    content: "Unisex TERREX",
 
-    "imgUrl": "img/teaser/IMG_(1).mp4",
-    },
-    {
-    "id": 2,
+    price: 75000,
+  },
+  {
+    id: 2,
 
-    "title": "ADIDAS Shoes",
+    title: "트레포일 에센셜 팬츠",
 
-    "content": " 퍼포먼스 Adidas Ozweego TR",
+    imgUrl: "img/plus/Trefoil-Pants_front.JPG",
 
-    "buy": "지금 구매하기",
+    content: "Men Originals",
 
-    "imgUrl": "img/teaser/IMG_(2).jpg",
-    },
-    {
-    "id": 3,
+    price: 85000,
+  },
+  {
+    id: 3,
 
-    "title": "ADIDAS WEAR",
+    title: "미디엄 서포트 러닝 포켓브라",
 
-    "content": "아디다스 바스켓볼의 새로운 컬렉션 Adidas kid's",
+    imgUrl: "img/plus/yoga_training.JPG",
 
-    "buy": "지금 구매하기",
+    content: "Women Training",
 
-    "imgUrl": "img/teaser/IMG_(3).mp4",
-    },
-    {
-    "id": 4,
-
-    "title": "ADIDAS WEAR",
-
-    "content": "스타일리쉬 Adidas Women's",
-
-    "buy": "지금 구매하기",
-
-    "imgUrl": "img/teaser/IMG_(4).jpg",
-    },
-    {
-    "id": 5,
-
-    "title": "ADIDAS Shoes",
-
-    "content": "심플 & 베이직 Adidas ",
-
-    "buy": "지금 구매하기",
-
-    "imgUrl": "/img/teaser/IMG_(5).jpg",
-    },
+    price: 75000,
+  },
 ];
